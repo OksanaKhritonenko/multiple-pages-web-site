@@ -7,15 +7,20 @@ body {
 }
 h1,
 p {
+  display: block;
   text-align: center;
   margin: 20px auto;
   padding: 30px;
 }
 .container {
+  display: block;
   text-align: center;
+  margin: 30px auto;
 }
 .links {
   padding: 20px;
+
+  cursor: pointer;
 }
 img {
   display: block;
